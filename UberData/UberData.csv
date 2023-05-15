@@ -1,0 +1,21 @@
+employeeid,firstname,lastname,gender,jobtitle,salary,pickupzip,dropoffzip,trip_time,rating,race
+1020,John,Thompson,Male,Meat Cutter,40189,28212,28270,14,5,white
+1001,Aaliyah,Johnson,Female,Pharmacy Tech,40000,28227,28270,27,5,black
+1002,Jamal,Williams,Male,Student,0,28227,28227,15,5,black
+1003,Jasmine,Brown,Female,Student,0,28227,28227,9,5,black
+1004,Matthew,Parker,Male,CEO Tech,349973,28205,28215,22,5,white
+1005,Sophia,Smith,Female,Safety Officer,105031,28206,28205,11,5,white
+1006,Lisa,Johnson,Female,Interior Designer,128409,28207,28206,18,5,white
+1007,Kendrick,Jones,Male,Line Cook,35855,28215,28207,19,5,black
+1008,Maurice,King,Male,Package Handler,37440,28205,28215,13,5,black
+1009,Ebony,Turner,Female,Cashier,12480,29730,28204,30,5,black
+1010,Darnell,Taylor,Male,Nurse,75000,29732,29730,35,5,black
+1011,Rashad,Davis,Male,Assembly Worker,43910,29732,29730,15,5,black
+1012,Ruth,Wilson,Female,Retired,0,28203,28273,8,5,white
+1013,Nia,Parker,Female,HR,75537,28208,28208,12,5,black
+1014,Isabella,Martinez,Female,House Cleaner,34665,28214,28208,8,5,hispanic
+1015,Jada,Allen,Female,Assistant Manager,44436,28208,28203,7,5,black
+1016,Tia,Anderson,Female,Nurse,62532,28208,28208,10,5,black
+1017,Mary,Johnson,Female,Retired,0,28107,28208,40,5,white
+1018,Deja,Thompson,Female,Cashier Fast Food,23000,28079,28079,11,5,black
+1019,Ebony,Davis,Female,Student,0,28212,28105,12,5,black
