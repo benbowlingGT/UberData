@@ -15,6 +15,7 @@ For this analysis, I worked with two main tables: "uberdemographics" and "UberSa
 - LastName (VARCHAR(50))
 - Age (INTEGER)
 - Gender (VARCHAR(10))
+- Race (VARCHAR(50))
 
 ### UberSalary
 
