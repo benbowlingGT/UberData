@@ -1,5 +1,3 @@
-# UberData
-
 # UberData Project
 
 As a data analyst driving for Uber, I embarked on a project to analyze and make sense of the data collected from Uber drivers. This project involved utilizing SQL queries to gain insights and answer important questions about the data. Let me take you through an overview of the project, including the data used and the steps I took.
